@@ -7,6 +7,8 @@ namespace InterfaceDemo
         void Move();
     }
 
+
+
     class Car : IMovable
     {
         public void Move()
